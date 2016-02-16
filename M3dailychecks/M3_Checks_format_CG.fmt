@@ -1,0 +1,16 @@
+10.0
+14
+1	SQLCHAR	0	50	"\t"	1	Period	Latin1_General_CI_AS
+2	SQLCHAR	0	50	"\t"	2	Col2	Latin1_General_CI_AS
+3	SQLCHAR	0	50	"\t"	3	SA_ID_Number	Latin1_General_CI_AS
+4	SQLCHAR	0	50	"\t"	4	Membership_num	Latin1_General_CI_AS
+5	SQLCHAR	0	50	"\t"	5	CampaignCode	Latin1_General_CI_AS
+6	SQLCHAR	0	50	"\t"	6	Col6	Latin1_General_CI_AS
+7	SQLCHAR	0	50	"\t"	7	Col7	Latin1_General_CI_AS
+8	SQLCHAR	0	50	"\t"	8	Col8	Latin1_General_CI_AS
+9	SQLCHAR	0	50	"\t"	9	Col9	Latin1_General_CI_AS
+10	SQLCHAR	0	50	"\t"	10	Col10	Latin1_General_CI_AS
+11	SQLCHAR	0	50	"\t"	11	Col11	Latin1_General_CI_AS
+12	SQLCHAR	0	100	"\t"	12	Col12	Latin1_General_CI_AS
+13	SQLCHAR	0	50	"\t"	13	Col13	Latin1_General_CI_AS
+14	SQLCHAR	0	50	"\r\n"	14	Col14	Latin1_General_CI_AS

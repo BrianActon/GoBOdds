@@ -1,0 +1,5 @@
+10.0
+4
+1	SQLCHAR	0	8	"\t"	1	Period	""
+3	SQLCHAR	0	14	"\t"	2	SA_ID_Number	""
+5	SQLCHAR	0	6	"\t"	3	CampaignID	SQL_Latin1_General_CP1_CI_AS
