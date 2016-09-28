@@ -13,21 +13,7 @@ import (
 
 func main() {
 
-	/*	url := "http://localhost:1000"
-		res, err := http.Get(url)
-		if err != nil {
-			fmt.Println("Problem opening URL: ", url)
-			panic(err)
-		}
-		defer res.Body.Close()
 
-		body, err := ioutil.ReadAll(res.Body)
-		if err != nil {
-			fmt.Println("Error reading Body: ", err)
-		} else {
-			fmt.Println(body)
-		}
-	*/
 	fileName := "SAID_Check.txt"
 
 	data, err := loadFile(fileName)

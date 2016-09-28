@@ -35,7 +35,7 @@ import(
 func main() {
 
 	// log in to server
-	dsn := "server=" + "localhost" + ";user id=" + "PCUBED\\nuclog" + ";password=" + "P@ssword135" +  ";database=" + "M3"  + ";encrypt=" + "disable"
+	dsn := "server=" + "localhost" + ";user id=" + "" + ";password=" + "" +  ";database=" + "M3"  + ";encrypt=" + "disable"
 	db, err := sql.Open("mssql", dsn)
 	if err != nil {
 		message := "Cannot connect - 1 : "
